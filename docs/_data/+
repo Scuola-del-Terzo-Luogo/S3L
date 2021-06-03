@@ -1,0 +1,11 @@
+    main:
+  - title: "Radice"
+    url: /
+    children:
+        title: "Incontri"
+  - title: "Dal Terzo Paesaggio al Terzo Luogo"
+    url: /dal-terzo-paesaggio-al-terzo-luogo/
+  - title: "Incontri del Terzo Luogo"
+    url: /incontri/
+  - title: "Indecisioni"
+    url: /incontri/indecisioni/
