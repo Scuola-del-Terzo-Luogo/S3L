@@ -4,6 +4,7 @@ layout: single
 sidebar: 
   nav: "docs"
 show_sidebar: true
+permalink: /incontri/improvvisazione/
 ---
 
 ![](/assets/images/01-banner550x250.jpg)

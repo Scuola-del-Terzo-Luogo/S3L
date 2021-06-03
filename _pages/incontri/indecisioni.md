@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 ---
 
-![](01-indecisioni.jpg "indecisioni")
+![](/assets/images/01-indecisioni.jpg "indecisioni")
 
 _Dal 24 novembre al 3 dicembre 2012_
 

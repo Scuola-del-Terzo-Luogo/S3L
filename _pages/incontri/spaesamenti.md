@@ -3,7 +3,7 @@ title: Spaesamenti
 layout: single
 sidebar: 
   nav: "docs"
-permalink: 7incontri/spaesamenti/
+permalink: /incontri/spaesamenti/
 ---
 
 ![](/assets/images/01-materialisitoevento.jpg)

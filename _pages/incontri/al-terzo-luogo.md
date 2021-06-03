@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-![](/assets/images/01-terza.jpg)
+![](/assets/images/terza.jpg)
 
 _Dal 5 al 9 novembre 2013_
 
@@ -26,7 +26,7 @@ Si tratta ancora di sogni che adesso devono confrontarsi con quelle che Gilles C
 
 ![](/assets/images/terza_1.jpg)
 
-![](/assets/images/terza_2.gif)
+![](/assets/images/terza_2.jpg)
 
 I Coloco si inseriranno direttamente nel progetto del giardino-parcheggio delle Manifatture Knos, ma offriranno la loro esperienza anche agli altri gruppi, per delineare un percorso e degli approdi comuni, pur nella diversità dei luoghi e degli approcci.
 

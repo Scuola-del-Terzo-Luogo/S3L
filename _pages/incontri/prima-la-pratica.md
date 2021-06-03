@@ -25,8 +25,6 @@ Tanti i temi su cui lavorare e gli ospiti di questa nuova edizione. Parleremo di
 
 Gilles Clément sarà presente e guiderà tutte le fasi del workshop con la collaborazione dei Coloco.
 
-![](/assets/images/quarta_2.jpg)
- 
 **ASFALTO MON AMOUR!**
 
 Il gruppo che lavora sul parcheggio delle Manifatture Knos - coordinato da Michele Loiacono (Labuat), Roberto Covolo (ExFadda) e Pablo e Miguel dei Coloco - affronterà tre temi emersi dalle precedenti sessioni: gestione, mobilità e creazione collettiva.
@@ -50,8 +48,6 @@ Il gruppo di Borgo San Nicola - coordinato da Luisella Guerrieri - lavorerà all
 
 
 Gilles Clément condurrà il workshop pratico sul terreno!
-
-![](/assets/images/quarta_0.japg)
 
 ![](/assets/images/defricher_con_Gilles_clement.jpg)
 
@@ -97,8 +93,6 @@ Cosimo Chiffi di TRT, società di consulenza su trasporti e territorio, ci mostr
 
 Dopo l'incontro lasceremo spazio alla festa di conclusione dei lavori a cura del Coloco Pablo e di Danilo, architetto urbanista nonché dj d'eccezione che fa girare i suoi dischi dai lontani anni '80 in giro per l'Italia.
 
-![](/assets/images/quarta_3.jpg)
- 
 Gli Incontri del Terzo Luogo sono organizzati dalle Manifatture Knos in collaborazione con:
 Lua - Laboratorio Urbano Aperto ǀ Labuat - Laboratorio Urbano d'Architettura Taranto ǀ ExFadda ǀ Bigsur ǀ Ciclofficina Popolare ǀ Scie Urbane ǀ Università Bocconi ǀ Sardex ǀ Festival di Sant'Arcangelo ǀ Lecce2019 ǀ Apulia Film Commission ǀ Comune di Lecce - Assessorato Pianificazione del Territorio, Urbanistica e Assessorato Innovazione Tecnologica ǀ Provincia di Lecce ǀ Regione Puglia
 
