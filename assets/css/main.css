@@ -900,8 +900,11 @@ input[type="submit"],
 
 #start {
   max-width: 65%;
-  margin: auto; }
+  margin: 2rem auto; }
 
+@media only screen and (min-device-width: 320px) and (max-device-width: 680px) {
+  #start {
+    max-width: 90%; } }
 /* ==========================================================================
    Forms
    ========================================================================== */
