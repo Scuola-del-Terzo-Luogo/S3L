@@ -6,7 +6,20 @@ content:
 layout: single
 sidebar:
   nav: "docs"
-  permalink: /iardini/Cava_Madre/
+permalink: /giardini/Cava_Madre/
+gallery:
+  - url: /assets/images/Lecce-cava-madre/04-borgo_san_nicola_cava.jpg
+    image_path: /assets/images/Lecce-cava-madre/04-borgo_san_nicola_cava.jpg
+  - url: /assets/images/Lecce-cava-madre/05-borgo_san_nicola_cava.jpg
+    image_path: /assets/images/Lecce-cava-madre/05-borgo_san_nicola_cava.jpg
+  - url: /assets/images/Lecce-cava-madre/esplorazione-cavamadre.jpg
+    image_path: /assets/images/Lecce-cava-madre/esplorazione-cavamadre.jpg
+  - url: /assets/images/Lecce-cava-madre/tavolo-di-lavoro.jpg
+    image_path: /assets/images/Lecce-cava-madre/tavolo-di-lavoro.jpg
+  - url: /assets/images/Lecce-cava-madre/01-borgo_san_nicola_cava.jpg
+    image_path: /assets/images/Lecce-cava-madre/01-borgo_san_nicola_cava.jpg
+  - url: /assets/images/Lecce-cava-madre/02-borgo_san_nicola_cava.jpg
+    image_path: /assets/images/Lecce-cava-madre/02-borgo_san_nicola_cava.jpg
 ---
 
 “Il meno possibile contro, il più possibile a favore” è un modo per trasformare e gestire?
@@ -29,3 +42,4 @@ L’interpretazione degli elementi costitutivi di quest’area non sarebbe compl
 
 Alcune di queste presenze, e soprattutto le condizioni legate alla viabilità, hanno indotto una forte frammentazione fisica del quartiere, a cui corrispondono anche diverse condizioni abitative: ci sono gli abitanti dell’antico borgo, dello storico edificio di edilizia pubblica, ora in stato di grave fatiscenza, i residenti del grande complesso di edilizia residenziale convenzionata, degli ampliamenti urbani recenti e delle villette isolate.
 
+{% include gallery layout="half" %}

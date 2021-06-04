@@ -1,6 +1,6 @@
 ---
 title: Giardini
-permalink: /giardini/
+permalink: /giardini
 layout: gallery
 sidebar: 
   nav: "docs"

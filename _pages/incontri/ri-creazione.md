@@ -26,8 +26,6 @@ Prendendo coscienza degli spazi e delle possibilità d’uso i ragazzi del colle
 
 Ne è nata l’idea di poter utilizzare la Giornata dell’Arte del 14 maggio non esclusivamente come libera espressione del proprio estro bensì come momento fondamentale per ripensare il tempo dentro la scuola, attraverso azioni collettive di Ri-creazione che definiscono una graduale riappropriazione degli spazi da parte dell’intera comunità scolastica.
 
-![](/assets/images/ricreazione/01-ricreazione.jpg)
-
 ![](/assets/images/ricreazione/02-ricreazione.jpg)
 
 ![](/assets/images/ricreazione/06-ricreazione.jpg)

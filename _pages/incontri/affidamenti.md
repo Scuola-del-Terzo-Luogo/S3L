@@ -28,7 +28,7 @@ Ci sono luoghi, persone, situazioni che in qualche modo hanno a che fare con gli
 **TOC-Centre**
 Un centro di produzione culturale all’interno della Torre dell’Orologio di Copertino. Porta avanti, attraverso momenti formativi, lecture, studio visit e programmi di residenza, una riflessione sulla fruibilità delle pratiche contemporanee attraverso i linguaggi delle immagini in movimento e delle arti narrative (time based arts). 
 
-https://toc-centre.org | https://www.facebook.com/toccentre/
+[ TOC Centre sito web]( https://toc-centre.org) | [FB](https://www.facebook.com/toccentre/ )
 
 **Terminalia**
 Nato nell'entroterra tra la provincia di Fermo e Macerata, Terminalia è un cantiere itinerante che affronta il tema della custodia di un territorio marginale con un approccio nomade/stanziale. Verrà presentata la sua tappa zero, avvenuta lo scorso anno, e i suoi futuri intenti.
@@ -39,7 +39,7 @@ Nato nell'entroterra tra la provincia di Fermo e Macerata, Terminalia è un cant
 **Filerà - Le Sementerie Artistiche a Crevalcore**
 Un approccio poliedrico all'agricoltura. Dall'agricoltura industriale alla permacultura, dalla genetica alla produzione artigianale, dall'agricoltura sociale all'arte. Da 3 anni un’esperienza di riconversione di una grande azienda agricola con 1.150.000 mq di coltivazione, spazi coperti per un totale di 3.500 mq e 70 persone di capacità di accoglienza. Sementerie Artistiche organizza residenze artistiche (teatro, danza e musica), corsi settimanali o intensivi (acrobatica, teatro, musica, danza, crescita personale), stagioni teatrali (una invernale e una estiva) e un festival di 6 settimane durante l'estate, dando spazio ad animali e piante spontanee. In atto, la riconversione di 17.000 metri quadri di terreno agricolo industriale con un progetto pilota di agricoltura sociale. Mentre lo sguardo volge al centro storico di Crevalcore, in semi-abbandono a causa del sisma.
  
-http://www.sementerieartistiche.it/
+[Sementerie Artistiche](http://www.sementerieartistiche.it/)
  
 **Domicilio Rodogallo**
 Un trullo, quattro roulotte e qualche tenda dove accogliere i viandanti. Un campo nomade temporaneo, nato durante l’estate del 2014 nel Parco della Montagna Spaccata - Rupi di San Mauro a Gallipoli. Un laboratorio artistico di ricerca che si interroga su come influisca l’ambiente nei processi di scambio interpersonale. Ogni anno, artisti, filosofi, paesaggisti, sono invitati ad abitare il campo e a condurre una loro ricerca sull’ospitalità, adottando la pratica del disimparare. Un processo a lungo termine per sviluppare un luogo comune.

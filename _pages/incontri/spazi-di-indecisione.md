@@ -47,5 +47,12 @@ Gli Incontri del terzo luogo e il Meeting di Trans Europe Halles sono aperti a t
 
 ![](/assets/images/sesta_0.jpg)
 
-<iframe width="420" height="315" src="https://youtu.be/VnRdp9kMvDo" frameborder="0" allowfullscreen></iframe>
-
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/VnRdp9kMvDo"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>

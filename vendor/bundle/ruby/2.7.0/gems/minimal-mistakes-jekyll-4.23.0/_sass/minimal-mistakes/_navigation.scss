@@ -439,7 +439,7 @@
 
 .nav__list .nav__items {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1.4rem !important;
 
   a {
     color: inherit;
@@ -490,12 +490,11 @@
 
 .nav__sub-title {
   display: block;
-  margin: 0.5rem 0;
-  padding: 0.25rem 0;
-  font-family: $sans-serif-narrow;
+  margin: 0rem 0;
+  padding: 0.5rem 0 0 0;
+  font-family: $title;
   font-size: $type-size-6;
   font-weight: bold;
-  text-transform: uppercase;
   border-bottom: 1px solid $border-color;
 }
 

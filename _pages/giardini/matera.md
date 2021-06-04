@@ -7,6 +7,8 @@ layout: single
 sidebar:
   nav: "docs"
 permalink: /giardini/Giardini_Venerdì/
+redirect_from:
+  - /giardini/matera.html
 gallery: 
   - url: /assets/images/matera/Matera_Giardini-Venerdi_01.jpg
     image_path: /assets/images/matera/Matera_Giardini-Venerdi_01.jpg
@@ -36,4 +38,4 @@ Le attività nel giardino si sono sviluppate attraverso cinque incontri nel 2019
 * Arboratorio#4 - Mettere dimora | 27 maggio - 02 giugno |
 * Arboratorio#5 - Murale e inaugurazione | 23 - 27 luglio |
 
-{% include gallery class="full" %}
+{% include gallery layout="half" %}

@@ -7,6 +7,17 @@ layout: single
 sidebar:
   nav: "docs"
 permalink: /giardini/Asfalto_Mon_Amour
+gallery:
+  - url: /assets/images/Lecce/01-Lecce-Knos-Asfalto_Mon_Amour.jpg
+    image_path: /assets/images/Lecce/01-Lecce-Knos-Asfalto_Mon_Amour.jpg
+  - url: /assets/images/Lecce/02-Lecce-Knos-Asfalto_Mon_Amour.jpg
+    image_path: /assets/images/Lecce/02-Lecce-Knos-Asfalto_Mon_Amour.jpg
+  - url: /assets/images/Lecce/03-Lecce-Knos-Asfalto_Mon_Amour.jpg
+    image_path: /assets/images/Lecce/03-Lecce-Knos-Asfalto_Mon_Amour.jpg
+  - url: /assets/images/Lecce/04-Lecce-Knos-Asfalto_Mon_Amour.jpg
+    image_path: /assets/images/Lecce/04-Lecce-Knos-Asfalto_Mon_Amour.jpg
+  - url: /assets/images/Lecce/05-Lecce-Knos-Asfalto_Mon_Amour.jpg
+    image_path: /assets/images/Lecce/05-Lecce-Knos-Asfalto_Mon_Amour.jpg
 ---
 Cosa può nascere da un deserto di asfalto?
 È possibile trasformare un luogo abbandonato totalmente deciso dall’uomo in un terreno sperimentale per la condivisione e la trasformazione diretta da parte dei cittadini?
@@ -24,3 +35,5 @@ capo. Un giorno, uno dei partecipanti ha preso un piccone e ha cominciato a cerc
 l’acqua nel deserto: ha spaccato l’asfalto facendo spazio a qualcosa di non previsto.
 E così ha creato le condizioni affinché un cambiamento potesse avvenire in maniera
 spontanea. Adesso, quindi, non sappiamo più che cosa potrà accadere.
+
+{% include gallery layout="half" %}
