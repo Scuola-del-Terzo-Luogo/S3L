@@ -638,7 +638,7 @@ body {
   margin: 0;
   padding: 0;
   color: #3d4144;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 16px !important;
   line-height: 1.6; }
   body.overflow--hidden {
@@ -653,7 +653,7 @@ h5,
 h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: "Advent Pro", Faustina, Arial, sans-serif;
+  font-family: "Advent Pro", sans-serif;
   font-weight: bold; }
 
 h1 {
@@ -944,7 +944,7 @@ button,
 select,
 textarea {
   box-sizing: border-box;
-  font-family: Faustina, Arial, sans-serif; }
+  font-family: Roboto, Arial, sans-serif; }
 
 label {
   display: block;
@@ -1204,7 +1204,7 @@ table {
   display: block;
   margin-bottom: 1em;
   width: 100%;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em;
   border-collapse: collapse;
   overflow-x: auto; }
@@ -1254,7 +1254,7 @@ th {
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em;
   font-weight: bold;
   text-align: center;
@@ -1399,7 +1399,7 @@ th {
   /* override*/
   padding: 1em;
   color: #3d4144;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em !important;
   text-indent: initial;
   /* override*/
@@ -1440,7 +1440,7 @@ th {
   /* override*/
   padding: 1em;
   color: #3d4144;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em !important;
   text-indent: initial;
   /* override*/
@@ -1481,7 +1481,7 @@ th {
   /* override*/
   padding: 1em;
   color: #3d4144;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em !important;
   text-indent: initial;
   /* override*/
@@ -1522,7 +1522,7 @@ th {
   /* override*/
   padding: 1em;
   color: #3d4144;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em !important;
   text-indent: initial;
   /* override*/
@@ -1563,7 +1563,7 @@ th {
   /* override*/
   padding: 1em;
   color: #3d4144;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em !important;
   text-indent: initial;
   /* override*/
@@ -1604,7 +1604,7 @@ th {
   /* override*/
   padding: 1em;
   color: #3d4144;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em !important;
   text-indent: initial;
   /* override*/
@@ -1728,7 +1728,7 @@ th {
   max-width: 100%;
   padding-left: 1em;
   padding-right: 1em;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   -webkit-animation: intro 0.3s both;
   animation: intro 0.3s both;
   -webkit-animation-delay: 0.3s;
@@ -1774,7 +1774,7 @@ th {
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: Faustina, Arial, sans-serif; }
+    font-family: Roboto, Arial, sans-serif; }
   .pagination li {
     display: block;
     float: left;
@@ -1783,7 +1783,7 @@ th {
       display: block;
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: Faustina, Arial, sans-serif;
+      font-family: Roboto, Arial, sans-serif;
       font-size: 14px;
       font-weight: bold;
       line-height: 1.5;
@@ -1814,7 +1814,7 @@ th {
     padding: 1em 2em;
     float: left;
     width: 50%;
-    font-family: Faustina, Arial, sans-serif;
+    font-family: Roboto, Arial, sans-serif;
     font-size: 1em;
     font-weight: bold;
     text-align: center;
@@ -2080,7 +2080,7 @@ th {
 .nav__title {
   margin: 0;
   padding: 0.5rem 0.75rem;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 1em;
   font-weight: bold; }
 
@@ -2088,7 +2088,7 @@ th {
   display: block;
   margin: 0rem 0;
   padding: 0.5rem 0 0 0;
-  font-family: "Advent Pro";
+  font-family: "Advent Pro", sans-serif;
   font-size: 0.75em;
   font-weight: bold;
   border-bottom: 1px solid #f2f3f3; }
@@ -2097,7 +2097,7 @@ th {
      Table of contents navigation
      ========================================================================== */
 .toc {
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   color: #7a8288;
   background-color: #fff;
   border: 1px solid #f2f3f3;
@@ -2190,7 +2190,7 @@ th {
     color: #646769; }
 
 .page__footer-copyright {
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.6875em; }
 
 .page__footer-follow ul {
@@ -2201,7 +2201,7 @@ th {
   display: inline-block;
   padding-top: 5px;
   padding-bottom: 5px;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em;
   text-transform: uppercase; }
 .page__footer-follow li + li:before {
@@ -2611,7 +2611,7 @@ body:hover .visually-hidden button {
   position: fixed;
   z-index: 20;
   margin: 0;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   white-space: nowrap; }
 
 .skip-link li {
@@ -3052,7 +3052,7 @@ body {
     margin-top: -0.5em; }
 
 .page__lead {
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 1.25em; }
 
 .page__content {
@@ -3085,11 +3085,11 @@ body {
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
   .page__content dt {
     margin-top: 1em;
-    font-family: Faustina, Arial, sans-serif;
+    font-family: Roboto, Arial, sans-serif;
     font-weight: bold; }
   .page__content dd {
     margin-left: 1em;
-    font-family: Faustina, Arial, sans-serif;
+    font-family: Roboto, Arial, sans-serif;
     font-size: 0.75em; }
   .page__content .small {
     font-size: 0.75em; }
@@ -3203,7 +3203,7 @@ body {
 .page__meta, .comment__date {
   margin-top: 2em;
   color: #646769;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 0.75em; }
   .page__meta p, .comment__date p {
     margin: 0; }
@@ -3450,7 +3450,7 @@ body {
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis; }
@@ -3775,10 +3775,10 @@ body {
   .sidebar h5,
   .sidebar h6 {
     margin-bottom: 0;
-    font-family: Faustina, Arial, sans-serif; }
+    font-family: Roboto, Arial, sans-serif; }
   .sidebar p,
   .sidebar li {
-    font-family: "Advent Pro";
+    font-family: "Advent Pro", sans-serif;
     font-size: 0.75em;
     line-height: 1.5; }
   .sidebar img {
@@ -3867,7 +3867,7 @@ body {
       margin-bottom: 10px; } }
 
 .sidebar .author__name {
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-size: 1em; }
 
 .author__bio {
@@ -3881,7 +3881,7 @@ body {
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: Faustina, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   z-index: 20;
   cursor: pointer; }
   .author__urls-wrapper li:last-child a {
