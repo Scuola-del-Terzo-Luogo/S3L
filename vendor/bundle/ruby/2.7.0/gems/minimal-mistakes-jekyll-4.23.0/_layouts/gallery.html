@@ -5,7 +5,7 @@ layout: archive
 {{ content }}
 <div>
 {% for i in page.element  %}
-<p class="small"><a href="./{{ i }}"><img src="/assets/images/{{ i }}.jpg"></br>{{ i }}</a></p></br>
+<p class="small"><a href="{{ site.baseurl }}{{ i}}"><img src="{{site.baseurl}}/assets/images/{{ i }}.jpg"></br>{{ i }}</a></p></br>
 {% endfor %}
 </div>
 {% include paginator.html %}

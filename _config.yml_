@@ -22,11 +22,11 @@ title: La Scuola del Terzo Luogo
 email: roorco@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Sito dei progetti del collettivo La Scuola del Terzo Luogo
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.scuoladelterzoluogo.it" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+theme: "minimal-mistakes-jekyll"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
